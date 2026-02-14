@@ -1,0 +1,29 @@
+function setup() {
+  createCanvas(600,500,0);
+  background(0);
+}
+
+function draw() {
+  noStroke();
+  fill(blue);
+  ellipse(mouseX,mouseY,24);
+}
+  
+  function draw(){
+  noStroke();
+  fill(255, 165, 0)
+  circle(mouseX,mouseY,50);
+    
+}
+
+
+  function draw(){
+  noStroke();
+  fill(800, 40, 0)
+  circle(mouseX,mouseY,50);
+ 
+ 
+  //function mousePressed(){
+  //background(0);
+  }
+  
